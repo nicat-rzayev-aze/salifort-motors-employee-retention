@@ -1,5 +1,5 @@
 # Salifort Motors: Employee Retention Predictive Modeling & Strategic Insights
-** As Google Advanced Data Analytics Professional Certificate Capstone Project **
+(As Google Advanced Data Analytics Professional Certificate Capstone Project)
 
 
 ## Executive Summary & Business Problem
